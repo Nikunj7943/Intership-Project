@@ -1,0 +1,46 @@
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe.config
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.pdb
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.dll
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.xml
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.AssemblyReference.cache
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.frmlogin.resources
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Properties.Resources.resources
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.GenerateResource.cache
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.CoreCompileInputs.cache
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.Up2Date
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.exe
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.pdb
+D:\For Practice\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.dashboard.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.AssemblyReference.cache
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.DASHBOARD.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.frmlogin.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Properties.Resources.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.GenerateResource.cache
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.CoreCompileInputs.cache
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.exe
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.pdb
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe.config
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.pdb
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.Up2Date
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.customer.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.supplier.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Item.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Receipt.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.User.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Custmaster.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Supmaster.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Customerupd.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.ResolveComReference.cache
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.PurchaseInvoice.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Purchasemaster.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.SalesInvoice.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.itemmaster.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Receiptmaster.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Salesinvoicemst.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Paymentmst.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Payment.resources
+C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.usermst.resources
