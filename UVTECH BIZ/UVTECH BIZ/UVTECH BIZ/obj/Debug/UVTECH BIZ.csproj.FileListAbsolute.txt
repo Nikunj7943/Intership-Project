@@ -77,3 +77,36 @@ D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.CoreCompileInput
 D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.Up2Date
 D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.exe
 D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.pdb
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe.config
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.pdb
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.dll
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.xml
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.AssemblyReference.cache
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.ResolveComReference.cache
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Custmaster.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.customer.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Customerupd.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.DASHBOARD.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Item.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.itemmaster.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.frmlogin.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Paymentmst.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Payment.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Properties.Resources.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.PurchaseInvoice.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Purchasemaster.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Receipt.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Receiptmaster.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.SalesInvoice.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Salesinvoicemst.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Supmaster.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.supplier.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.User.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.usermst.resources
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.GenerateResource.cache
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.CoreCompileInputs.cache
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.Up2Date
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.exe
+D:\Intership-Project\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.pdb
