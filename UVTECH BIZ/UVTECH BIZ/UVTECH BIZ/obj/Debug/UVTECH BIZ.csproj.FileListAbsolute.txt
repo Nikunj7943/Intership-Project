@@ -44,3 +44,36 @@ C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_B
 C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Paymentmst.resources
 C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Payment.resources
 C:\Users\ad\OneDrive\Desktop\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.usermst.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe.config
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.exe
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\UVTECH BIZ.pdb
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.dll
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\bin\Debug\System.Data.SqlClient.xml
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.AssemblyReference.cache
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.ResolveComReference.cache
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Custmaster.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.customer.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Customerupd.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.DASHBOARD.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Item.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.itemmaster.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.frmlogin.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Paymentmst.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Payment.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Properties.Resources.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.PurchaseInvoice.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Purchasemaster.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Receipt.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Receiptmaster.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.SalesInvoice.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Salesinvoicemst.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.Supmaster.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.supplier.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.User.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH_BIZ.usermst.resources
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.GenerateResource.cache
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.CoreCompileInputs.cache
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.csproj.Up2Date
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.exe
+D:\UVTECH BIZ\UVTECH BIZ\UVTECH BIZ\obj\Debug\UVTECH BIZ.pdb
