@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|d:\\intership-project\\uvtech biz\\uvtech biz\\uvtech biz\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|d:\\intership-project\\uvtech biz\\uvtech biz\\uvtech biz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|d:\\intership-project\\uvtech biz\\uvtech biz\\uvtech biz\\usermst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\usermst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\purchasemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\purchasemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|d:\\intership-project\\uvtech biz\\uvtech biz\\uvtech biz\\paymentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\paymentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|d:\\intership-project\\uvtech biz\\uvtech biz\\uvtech biz\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|d:\\intership-project\\uvtech biz\\uvtech biz\\uvtech biz\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -27,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\paymentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\purchasemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\purchasemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\salesinvoicemst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\salesinvoicemst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\salesinvoicemst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\salesinvoicemst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|solutionrelative:uvtech biz\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{609412DC-B8E0-455A-BFB6-414331E4FF32}|UVTECH BIZ\\UVTECH BIZ.csproj|D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\uvtech biz\\purchaseinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -62,47 +82,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DBHelper.cs",
-              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\DBHelper.cs",
-              "RelativeDocumentMoniker": "UVTECH BIZ\\DBHelper.cs",
-              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\DBHelper.cs",
-              "RelativeToolTip": "UVTECH BIZ\\DBHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DASHBOARD.cs [Design]",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\DASHBOARD.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\DASHBOARD.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\DASHBOARD.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\DASHBOARD.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:56:05.394Z"
+              "WhenOpened": "2026-04-23T22:33:19.905Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "itemmaster.cs",
-              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\itemmaster.cs",
-              "RelativeDocumentMoniker": "UVTECH BIZ\\itemmaster.cs",
-              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\itemmaster.cs",
-              "RelativeToolTip": "UVTECH BIZ\\itemmaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LOGIN.cs [Design]",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\LOGIN.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\LOGIN.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\LOGIN.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\LOGIN.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:25:24.879Z"
+              "WhenOpened": "2026-04-23T22:33:03.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usermst.cs [Design]",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\usermst.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\usermst.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\usermst.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\usermst.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:32:50.958Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Paymentmst.cs",
+              "Title": "Paymentmst.cs [Design]",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Paymentmst.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\Paymentmst.cs",
-              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Paymentmst.cs",
-              "RelativeToolTip": "UVTECH BIZ\\Paymentmst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAsAAAAYAAAAAAAAAA==",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Paymentmst.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\Paymentmst.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:21:52.957Z"
+              "WhenOpened": "2026-04-23T15:29:38.261Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Payment.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\Payment.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Payment.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:29:14.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\App.config",
               "RelativeDocumentMoniker": "UVTECH BIZ\\App.config",
@@ -115,7 +159,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Purchasemaster.cs [Design]",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Purchasemaster.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\Purchasemaster.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Purchasemaster.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\Purchasemaster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:18:36.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\SalesInvoice.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\SalesInvoice.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\SalesInvoice.cs [Design]",
+              "RelativeToolTip": "UVTECH BIZ\\SalesInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:18:36.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Paymentmst.cs",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Paymentmst.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\Paymentmst.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Paymentmst.cs",
+              "RelativeToolTip": "UVTECH BIZ\\Paymentmst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:21:52.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "itemmaster.cs",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\itemmaster.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\itemmaster.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\itemmaster.cs",
+              "RelativeToolTip": "UVTECH BIZ\\itemmaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:25:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\DBHelper.cs",
+              "RelativeDocumentMoniker": "UVTECH BIZ\\DBHelper.cs",
+              "ToolTip": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\DBHelper.cs",
+              "RelativeToolTip": "UVTECH BIZ\\DBHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:56:05.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Purchasemaster.cs",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Purchasemaster.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\Purchasemaster.cs",
@@ -123,11 +228,12 @@
               "RelativeToolTip": "UVTECH BIZ\\Purchasemaster.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:18:36.276Z"
+              "WhenOpened": "2026-04-22T17:18:36.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Custmaster.cs",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Custmaster.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\Custmaster.cs",
@@ -139,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Salesinvoicemst.cs [Design]",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Salesinvoicemst.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\Salesinvoicemst.cs",
@@ -150,18 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Purchasemaster.cs [Design]",
-              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Purchasemaster.cs",
-              "RelativeDocumentMoniker": "UVTECH BIZ\\Purchasemaster.cs",
-              "ToolTip": "D:\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Purchasemaster.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Purchasemaster.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:18:36.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Salesinvoicemst.cs",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\Salesinvoicemst.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\Salesinvoicemst.cs",
@@ -173,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "SalesInvoice.cs",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\SalesInvoice.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\SalesInvoice.cs",
@@ -181,11 +276,12 @@
               "RelativeToolTip": "UVTECH BIZ\\SalesInvoice.cs",
               "ViewState": "AgIAADMAAAAANDMzMzPTv0UAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:18:36.406Z"
+              "WhenOpened": "2026-04-22T17:18:36.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "PurchaseInvoice.cs",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\PurchaseInvoice.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\PurchaseInvoice.cs",
@@ -197,18 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SalesInvoice.cs [Design]",
-              "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\SalesInvoice.cs",
-              "RelativeDocumentMoniker": "UVTECH BIZ\\SalesInvoice.cs",
-              "ToolTip": "D:\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\SalesInvoice.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\SalesInvoice.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:18:36.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "PurchaseInvoice.cs [Design]",
               "DocumentMoniker": "D:\\Intership-Project\\UVTECH BIZ\\UVTECH BIZ\\UVTECH BIZ\\PurchaseInvoice.cs",
               "RelativeDocumentMoniker": "UVTECH BIZ\\PurchaseInvoice.cs",
